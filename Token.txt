@@ -1,0 +1,22 @@
+GitHub:
+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
+
+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
+
+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
+
+GitLab KubSU:
+glpat-xjRRQdsDT99BNAUF9SR6V286MQp1OjFoZgk.01.0z10pyrl8
+glpat-LciiAM7YpzV6WNPJUCFvPW86MQp1OjFoaAk.01.0z0lamodu
+teamproject - glpat-6yUyzOVJVV9eOPhJJ03f0G86MQp1OjE2NQk.01.0z07h923a
+Server
+kbspaceserver - name
+kbadmindefeat - user
+11aaAA!!11aaAA!! - password
+
+Provaider
+admin
+aU9u4FCe
+
+depseek api
+sk-fe3971cbe1fc451ab66a5bb1785df226
